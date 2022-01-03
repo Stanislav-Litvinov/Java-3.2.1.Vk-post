@@ -1,9 +1,9 @@
 package ru.netology.domain;
 
 public class LikesInfo {
-    private int countLikes;
-    private int countViews;
-    private int countReposts;
-    private int countComments;
+    private int count;
+    private int userLikes;
+    private int canLike;
+    private int canPublish;
     // + get/set на все поля
 }
